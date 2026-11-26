@@ -12,7 +12,8 @@
     "Firm Logo (300×120px) and Authorised Signature (300×150px) Upload Limits & Highlighting",
     "Document & GST Taxation Scheme Guide (Regular, Composition, Unregistered)",
     "Creative Note Box with High-Contrast Mint & Deep Teal Styling",
-    "Automated Zero-Maintenance AES-256 Exit Backups",
+    "Automated AES-256 Exit & 30-Min Periodic Backups with 1-Click Auto-Restore",
+    "Atomic WAL Snapshot Backup Engine & Sudden Power-Cut Cart Recovery",
     "Seamless User-Level 1-Click Setup Installer"
   ]
 }
