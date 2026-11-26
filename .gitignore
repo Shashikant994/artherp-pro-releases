@@ -1,0 +1,15 @@
+# Temporary & cache files
+*.tmp
+*.log
+*.bak
+*.swp
+Thumbs.db
+.DS_Store
+
+# Strict security guards (Public repo must NEVER hold private keys or source code)
+*.pem
+*.key
+*.db
+*.sqlite
+tools/
+artherp_core/
