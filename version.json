@@ -1,0 +1,18 @@
+{
+  "version": "2.4.2",
+  "build": "20261126.1",
+  "release_date": "2026-11-26",
+  "title": "ArthERP Pro v2.4.2 (Peacock Feather Edition)",
+  "download_url": "https://raw.githubusercontent.com/Shashikant994/artherp-pro-releases/main/releases/ArthERP_Pro_Setup.exe",
+  "setup_filename": "ArthERP_Pro_Setup.exe",
+  "mandatory": false,
+  "changelog": [
+    "Authentic Peacock Feather (मोरपंखी) Theme with High-Contrast Light & Dark Mode",
+    "10-Digit Mobile Number Validation with permanent statutory +91 Prefix Badge",
+    "Firm Logo (300×120px) and Authorised Signature (300×150px) Upload Limits & Highlighting",
+    "Document & GST Taxation Scheme Guide (Regular, Composition, Unregistered)",
+    "Creative Note Box with High-Contrast Mint & Deep Teal Styling",
+    "Automated Zero-Maintenance AES-256 Exit Backups",
+    "Seamless User-Level 1-Click Setup Installer"
+  ]
+}
