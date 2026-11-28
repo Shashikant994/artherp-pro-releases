@@ -1,6 +1,6 @@
 {
-  "version": "2.8.3",
-  "sha256": "91996f9752349a73c43ed069207afe31189c39ab77b20dcb24ac5a6cc3313271",
+  "version": "2.8.4",
+  "sha256": "336f7ea4c4b7464f6c04fc47c4ebcd734fdb0417dc5439407e564d89e19cb943",
   "download_url": "https://github.com/Shashikant994/artherp-pro-releases/raw/main/releases/ArthERP_Pro_Setup.exe",
-  "notes": "ArthERP Pro v2.8.3 — Multi-Merchant ArthPay Gateway Isolation + 1-Click Auto-Activate + Live POS UPI Sync"
+  "notes": "ArthERP Pro v2.8.4 — Redesigned Settings Workspace, Top-Bar ArthPay Live/Offline Pill, Unified New Bill Action & 1-Click Auto-Activate"
 }
