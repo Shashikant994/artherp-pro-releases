@@ -1,6 +1,6 @@
 {
-  "version": "2.8.4",
-  "sha256": "336f7ea4c4b7464f6c04fc47c4ebcd734fdb0417dc5439407e564d89e19cb943",
+  "version": "2.8.5",
+  "sha256": "d3fa1b07a886984d98f8b4b17b54ecbaf871e85b2d7b1620503c84acc5eed4d9",
   "download_url": "https://github.com/Shashikant994/artherp-pro-releases/raw/main/releases/ArthERP_Pro_Setup.exe",
-  "notes": "ArthERP Pro v2.8.4 — Redesigned Settings Workspace, Top-Bar ArthPay Live/Offline Pill, Unified New Bill Action & 1-Click Auto-Activate"
+  "notes": "ArthERP Pro v2.8.5 — Reliable Visible Auto-Updater Launch + Process Unlock + Redesigned Settings & ArthPay Live Pill"
 }
